@@ -90,7 +90,6 @@ header {
 }
 
 main {
-    /* height: 630px; */
     background-image: url("/img/fondo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,7 +131,6 @@ main .text4 {
     font-family: 'Barlow Semi Condensed', sans-serif;
     text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
-
 
 
 audio {
