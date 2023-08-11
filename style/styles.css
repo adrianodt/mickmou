@@ -37,7 +37,7 @@ header {
     overflow: hidden;
     border-radius: 10px 10px 0px 0px;
     
-    background-image: url("/img/Casa.webp");
+    background-image: url("img/Casa.webp");
     background-size: 100px;
     -webkit-animation: slidein 100s;
     animation: slidein 100s;
@@ -91,7 +91,7 @@ header {
 
 main {
     /* height: 630px; */
-    background-image: url("/img/fondo.jpg");
+    background-image: url("img/fondo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
