@@ -131,14 +131,31 @@ main .text4 {
     text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
 
+.text4 img {
+    width: 100%;
+}
+
 audio {
     width: 90%;
 }
 
 .imagenpie img {
-    padding: 10px 0px;
+    /* padding: 10px 0px; */
     width: 300px;
 }
+
+.btn-map, .btn-whatsapp {
+    margin-top: 20px;
+}
+
+.conteo {
+    margin-top: 10px;
+    color: white;
+    /* text-shadow: white 1px 0 10px; */
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 40px;
+}
+
 
 footer {
     text-align: center;
